@@ -30,7 +30,7 @@ Aquí tienes algunos de los proyectos en los que he trabajado recientemente:
 ## Contacto
 
 - **Correo Electrónico:** carlosed.vilema@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/carlos-vilema-41810b190/
+- **LinkedIn:** https://www.linkedin.com/in/carlos-vilema/
 - **Instagram:** https://www.instagram.com/carlos.vilema_/
 
 ¡No dudes en explorar mis repositorios y conectarte conmigo! Si tienes alguna pregunta o sugerencia, estaré encantado/a de escucharte.
